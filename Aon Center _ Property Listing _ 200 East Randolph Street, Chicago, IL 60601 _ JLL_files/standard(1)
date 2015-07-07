@@ -1,0 +1,1 @@
+mboxFactories.get('default').get('enus_search_results',0).setOffer(new mboxOfferDefault()).loaded();
